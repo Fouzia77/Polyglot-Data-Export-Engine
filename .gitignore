@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# logs
+logs
+*.log
+
+# environment files
+.env
+
+# export outputs
+*.csv
+*.json
+*.xml
+*.parquet
+*.gz
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# docker
+*.tar
